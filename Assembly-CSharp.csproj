@@ -44,7 +44,6 @@
      <Compile Include="Assets\_Volcano Jump\_Scripts\GameStateMachine\GameFSM.cs" />
      <Compile Include="Assets\_Volcano Jump\_Scripts\Bootstrapper\Bootstrapper.cs" />
      <Compile Include="Assets\_Volcano Jump\_Scripts\GameStateMachine\States\Interfaces\IGameState.cs" />
-     <Compile Include="Assets\_Volcano Jump\_Scripts\Bootstrapper\GameLifeTineScope.cs" />
      <Compile Include="Assets\_Volcano Jump\_Scripts\Player\PlayerInputs\InputUI.cs" />
      <Compile Include="Assets\_Volcano Jump\_Scripts\GameStateMachine\GamePlay\GameLevel.cs" />
      <Compile Include="Assets\_Volcano Jump\_Scripts\GameStateMachine\States\LoaderState.cs" />
