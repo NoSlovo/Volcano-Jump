@@ -790,17 +790,11 @@
      <Reference Include="UnityEngine.UI">
      <HintPath>E:\Test\Volcano Jump\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
-     <Reference Include="VContainer.Editor">
-     <HintPath>E:\Test\Volcano Jump\Library\ScriptAssemblies\VContainer.Editor.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.InternalAPIEditorBridge.001">
      <HintPath>E:\Test\Volcano Jump\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Tilemap.Extras.Editor">
      <HintPath>E:\Test\Volcano Jump\Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="VContainer">
-     <HintPath>E:\Test\Volcano Jump\Library\ScriptAssemblies\VContainer.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core">
      <HintPath>E:\Test\Volcano Jump\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
