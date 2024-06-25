@@ -28,7 +28,7 @@ public class ChanckFactory : MonoBehaviour
     private IEnumerator InstanceChanck()
     {
         var waitForSecons = new WaitForSecondsRealtime(1f);
-        while (_gameStart && _instanceChancks.Count >= MaxCount)
+        while (_gameStart && _instanceChancks.Count <= MaxCount)
         {
             var indexChanck = Random.Range(0, _chancks.Count);
             var instantiateChanck = Instantiate(_chancks[indexChanck], transform);
